@@ -60,7 +60,7 @@ function verMas(){
        btnVerMas.className = "btn btn-primary";
    }
 
-   
+   //prueba
 
   
 }
